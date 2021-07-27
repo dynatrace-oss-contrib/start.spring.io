@@ -1014,6 +1014,9 @@ initializr:
           links:
             - rel: reference
               href: https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/html/actuator.html#actuator.metrics.export.dynatrace
+            - rel: home
+              href: https://www.dynatrace.com/
+              description: The Dynatrace Homepage
     - name: Testing
       content:
         - name: Spring REST Docs
